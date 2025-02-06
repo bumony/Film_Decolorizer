@@ -13,7 +13,7 @@
 ## 初始化
 ### 配置python环境
 ```shell
-
+# 网上找找或者conda装一个新的吧
 ```
 ### 安装依赖
 ```shell
@@ -45,4 +45,3 @@ python main.py --path /Users/bumony/DevSpace/Softwares/Film_Decolorizer/imgs/in 
 
 希望这个小脚本能帮到你，如果有问题欢迎提issue，如果有更好的建议欢迎提pr，谢谢！
 小红书：Bumon_
-```
